@@ -6,7 +6,7 @@ Develop a machine learning model to categorize 8 different types of blood smears
 Source: High-res images from medical databases or labs.
 Annotation: Images annotated by medical professionals for accuracy.
 Augmentation: Techniques like rotation, scaling, cropping to enhance dataset.
-Data Split: 60% training, 15% validation, 25% test.
+Data Split: 80% training, 20% validation.
 2. Model Development & Architecture
 Pre-processing: Resize, normalize, and enhance images.
 Architecture: Convolutional neural networks (CNNs) using PyTorch.
